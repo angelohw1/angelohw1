@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/angelohw1/angelohw1/blob/master/assets/coming-soon-7166_256.gif" width="250" alt="Animación">
+</p>
+
 ---
 
 ## 🎯 Sobre mí
@@ -81,5 +85,6 @@ Si quieres hablar o colaborar en proyectos:
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/240/github.gif" width="120" alt="GitHub Logo">
+  <img src="https://github.com/angelohw1/angelohw1/blob/master/assets/octocat.gif" width="120" alt="GitHub Logo">
 </p>
+
