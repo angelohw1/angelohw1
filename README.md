@@ -81,5 +81,5 @@ Si quieres hablar o colaborar en proyectos:
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRnoppYtfEzsKad/giphy.gif" width="120">
+  <img src="https://img.icons8.com/color/240/github.gif" width="120" alt="GitHub Logo">
 </p>
